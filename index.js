@@ -43,6 +43,7 @@ const insults = [
     "You are so basic, even if you were dropped in indrustrial-grade acid, you'd balance the pH.",
     "You're a disappointment",
     "What a dumb name"
+    "I AM THE BEST."
 ]
 
 client.on('ready',() => console.log('I am ready' || process.env.PORT));
